@@ -4,7 +4,7 @@ object test {
   def main(args: Array[String]): Unit = {
     val st=new myobject
     println(st.prd)
-    println("test4")
+    println("v1.2")
 
 
   }
